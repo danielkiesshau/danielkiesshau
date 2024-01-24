@@ -6,9 +6,7 @@
 
 🌱 I’m currently practicing 
 - Data Structure/Algorithms
-- System Architecture
-
-🤔 I’m looking to help Open Source Projects
+- System Design
 
 💬 Ask me about 
 - Cross Mobile Development (React Native)
