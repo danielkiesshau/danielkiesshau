@@ -12,7 +12,7 @@
 
 💬 Ask me about 
 - Cross Mobile Development (React Native)
-- Back End Development (NodeJS and trying GoLang)
+- Back End Development (NodeJS and curious about GoLang)
 
 📝 blog: https://danielkiesshau.substack.com/
 
