@@ -9,7 +9,7 @@
 - System Design
 
 💬 Ask me about 
-- Cross Mobile Development (React Native)
+- Cross Mobile Development (React Native, Java, Swift)
 - Back End Development (NodeJS and curious about GoLang)
 
 📝 blog: https://danielkiesshau.substack.com/
