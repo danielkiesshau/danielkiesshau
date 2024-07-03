@@ -2,7 +2,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/danielkiesshau)
 
-🔭 I’m currently working at a FinTech called [banQi](https://www.linkedin.com/company/banqi/mycompany/)
+🔭 I’m currently working at [Wellhub](https://www.linkedin.com/company/wellhub/mycompany/)
 
 🌱 I’m currently practicing 
 - Data Structure/Algorithms
