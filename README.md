@@ -4,9 +4,12 @@
 
 🔭 I’m currently working at [Wellhub](https://www.linkedin.com/company/wellhub/mycompany/)
 
+My youtube channel (PT-BR): [dk-daniel-kiesshau](https://www.youtube.com/@danielkiesshau)
+
 🌱 I’m currently practicing 
-- Data Structure/Algorithms
 - System Design
+- Data Structure/Algorithms
+🌱 And, doing an MBA in AI Business Leadership
 
 💬 Ask me about 
 - Cross Mobile Development (React Native, Java, Swift)
