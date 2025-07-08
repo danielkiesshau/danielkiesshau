@@ -6,10 +6,11 @@
 
 My youtube channel (PT-BR): [dk-daniel-kiesshau](https://www.youtube.com/@danielkiesshau)
 
-🌱 I’m currently practicing 
+🌱 I’m practicing: 
 - System Design
 - Data Structure/Algorithms
-🌱 And, doing an MBA in AI Business Leadership
+
+🌱 And doing an MBA in AI Business Leadership
 
 💬 Ask me about 
 - Cross Mobile Development (React Native, Java, Swift)
