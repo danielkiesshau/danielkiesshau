@@ -10,10 +10,8 @@ My youtube channel (PT-BR): [dk-daniel-kiesshau](https://www.youtube.com/@daniel
 - System Design
 - Data Structure/Algorithms
 
-🌱 And doing an MBA in AI Business Leadership
-
 💬 Ask me about 
-- Cross Mobile Development (React Native, Java, Swift)
+- Hybrid Mobile Development (React Native, Java, Swift)
 - Back End Development (NodeJS and curious about GoLang)
 
 📝 blog: https://danielkiesshau.substack.com/
